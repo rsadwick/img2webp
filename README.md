@@ -59,7 +59,3 @@ Or make it executable and run `./img2webp.py` (on Unix-like systems).
   ```
   python img2webp.py ./images 1024 768 --output-dir /output --quality 90 --suffix -opt --glob "*.png"
   ```
-
-## Requirements
-- Python 3.8+
-- Pillow with WebP support (install via `requirements.txt`)
