@@ -16,7 +16,7 @@ A command-line tool for resizing images and converting them to WebP format using
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/img2webp.git
+   git clone https://github.com/rsadwick/img2webp.git
    ```
 2. Set up a virtual environment:
    ```
